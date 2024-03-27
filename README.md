@@ -27,29 +27,39 @@ I am an adept🚀, detail-oriented💡, and innovative🌟 technology enthusiast
 ### 👨‍💻 Programming Languages and Tools
 
 <p>
-    <!-- Update these badges with your skills -->
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="R" src="https://img.shields.io/badge/R%20-%23276DC3.svg?logo=r&logoColor=white"></a>
-    <!-- Add more badges here -->
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?logo=sql&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%23282C34.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20Script-%234EAA25.svg?logo=gnu-bash&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <!-- Update these badges with your skills -->
+    <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
-    <!-- Add more badges here -->
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-    <!-- Update these badges with your skills -->
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <!-- Add more badges here -->
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-%231E4E79.svg?logo=tableau&logoColor=white"></a>
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?logo=power-bi&logoColor=black"></a>
+    <a href="#"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?logo=apache-spark&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
+    <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white"></a>
+    <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
 </p>
+
 
 ## 📊 Github Stats
 
