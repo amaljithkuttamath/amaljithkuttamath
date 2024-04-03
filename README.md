@@ -6,7 +6,7 @@ Hi, I'm Amaljith Kuttamath!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/amaljithkuttamath/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Engineer;Experienced+Software+Architect;NLP+%7C+Data+Mining+%7C+Cloud+Solutions;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/amaljithkuttamath/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Engineer;Experienced+Software+Architect;AI+ Engineer;NLP+%7C+Data+Mining+%7C+Cloud+Solutions;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 <samp>
