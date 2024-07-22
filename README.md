@@ -10,7 +10,7 @@ Hi, I'm Amaljith Kuttamath!
 </p>
 <hr/>
 <samp>
-I am an adept🚀, detail-oriented💡, and innovative🌟 technology enthusiast with a strong background in data analytics, software architecture, and cloud solutions. Passionate about leveraging my diverse skill set to solve complex problems, drive efficiency, and deliver impactful solutions. Always eager to explore new technologies and methodologies to stay at the forefront of the tech industry.
+I am passionate about leveraging my diverse skill set to solve complex problems, drive efficiency, and deliver impactful solutions. Always eager to explore new technologies and methodologies to stay at the forefront of the tech industry.
 </samp>
 
 ## 🔥 Streak Stats
