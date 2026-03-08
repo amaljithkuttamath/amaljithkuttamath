@@ -34,9 +34,9 @@ Working on LLM trust and safety: hallucination detection, mechanistic interpreta
 
 ### Writing
 
-I write about how LLMs work under the hood,making complex AI concepts accessible.
+I write about how LLMs work under the hood, making complex AI concepts accessible.
 
-[Blog](https://amaljithkuttamath.github.io/)
+[Blog](https://amaljithkuttamath.github.io/) | [Substack](https://substack.com/@amaljithk)
 
 ### Tech
 
@@ -56,6 +56,7 @@ I write about how LLMs work under the hood,making complex AI concepts accessible
 <p>
 <a href="https://www.linkedin.com/in/amaljithk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/amaljithk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://substack.com/@amaljithk" target="_blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack"/></a>
 <a href="mailto:kuttamath.amaljith@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://amaljithkuttamath.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white" alt="Website"/></a>
 </p>
