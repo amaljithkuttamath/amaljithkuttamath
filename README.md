@@ -27,16 +27,15 @@ Working on LLM trust and safety: hallucination detection, mechanistic interpreta
 
 | Project | What it does |
 |---------|-------------|
+| [microGPT Playground](https://amaljithkuttamath.github.io/playground) | Train a transformer live in your browser. Visualizes attention, embeddings, MLP activations, and loss in real time. |
 | [RAG Depression Chatbot](https://github.com/amaljithkuttamath/rag_depression_chatbot) | RAG chatbot with crisis detection, hybrid retrieval, and GPT-4 |
 | [Job Resume Matcher](https://github.com/amaljithkuttamath/job-resume-matcher) | NLP-based resume-to-job matching using TF-IDF and cosine similarity |
-| [Falcon](https://github.com/amaljithkuttamath/falcon) | LLM chat app using Google Gemma via Ollama, LangChain, and Chainlit |
-| [Mp3Metadata](https://github.com/amaljithkuttamath/Mp3Metadata) | Batch metadata editor for mp3 files |
 
 ### Writing
 
-I write about how LLMs work under the hood, making complex AI concepts accessible.
+- [How Large Language Models Actually Work](https://amaljithkuttamath.github.io/work/understanding-llms) - from raw text to trained model, in 200 lines of Python
 
-[Blog](https://amaljithkuttamath.github.io/) | [Substack](https://substack.com/@amaljithk)
+[Blog](https://amaljithkuttamath.github.io/work) | [Substack](https://substack.com/@amaljithk)
 
 ### Tech
 
