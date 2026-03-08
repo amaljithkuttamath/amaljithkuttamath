@@ -30,8 +30,6 @@ Currently at [Sorcero](https://sorcero.com), working on healthcare AI: RAG pipel
 | [RAG Depression Chatbot](https://github.com/amaljithkuttamath/rag_depression_chatbot) | RAG chatbot with crisis detection, hybrid retrieval, and GPT-4 |
 | [Job Resume Matcher](https://github.com/amaljithkuttamath/job-resume-matcher) | NLP-based resume-to-job matching using TF-IDF and cosine similarity |
 | [Falcon](https://github.com/amaljithkuttamath/falcon) | LLM chat app using Google Gemma via Ollama, LangChain, and Chainlit |
-| [exectime](https://github.com/amaljithkuttamath/exectime) | Python decorator for measuring function execution time |
-| [unpy](https://github.com/amaljithkuttamath/unpy) | One-liner to cleanly uninstall Python from macOS |
 | [Mp3Metadata](https://github.com/amaljithkuttamath/Mp3Metadata) | Batch metadata editor for mp3 files |
 
 ### Writing
