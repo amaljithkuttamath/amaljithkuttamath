@@ -2,15 +2,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=amaljithkuttamath&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="amaljithkuttamath" />
 
-**AI Engineer** building systems that detect when language models fail — and figuring out why.
+**AI Engineer** building systems that detect when language models fail, and figuring out why.
 
-Currently at [Sorcero](https://sorcero.com), working on healthcare AI: RAG pipelines, medical knowledge graphs, and hallucination detection for clinical applications.
+Working on LLM trust and safety: hallucination detection, mechanistic interpretability, and failure mode analysis at the architectural level.
 
 ---
 
 ### What I'm working on
 
-- Studying LLM internals through from-scratch implementations — understanding how attention patterns, inference optimization, and architectural choices affect model reliability
+- Studying LLM internals through from-scratch implementations,understanding how attention patterns, inference optimization, and architectural choices affect model reliability
 - Bridging applied evaluation (catching hallucinations in production) with mechanistic understanding (where and why they emerge)
 - Building toward AI safety research: trust, reliability, and interpretability at the architectural level
 
@@ -34,7 +34,7 @@ Currently at [Sorcero](https://sorcero.com), working on healthcare AI: RAG pipel
 
 ### Writing
 
-I write about how LLMs work under the hood — making complex AI concepts accessible.
+I write about how LLMs work under the hood,making complex AI concepts accessible.
 
 [Blog](https://amaljithkuttamath.github.io/)
 
