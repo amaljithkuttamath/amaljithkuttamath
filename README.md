@@ -2,52 +2,58 @@
 
 <img src="https://komarev.com/ghpvc/?username=amaljithkuttamath&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="amaljithkuttamath" />
 
-**AI Engineer** building systems that detect when language models fail, and figuring out why.
+**AI Engineer** building tools to understand what language models are doing internally, and catching them when they fail.
 
-Working on LLM trust and safety: hallucination detection, mechanistic interpretability, and failure mode analysis at the architectural level.
+Working on mechanistic interpretability, LLM evaluation, and trust/safety tooling. Most of my projects are small, sharp, and designed to answer one question well.
 
 ---
 
-### What I'm working on
+### Current focus
 
-- Studying LLM internals through from-scratch implementations,understanding how attention patterns, inference optimization, and architectural choices affect model reliability
-- Bridging applied evaluation (catching hallucinations in production) with mechanistic understanding (where and why they emerge)
-- Building toward AI safety research: trust, reliability, and interpretability at the architectural level
+**[Trust Bench](https://github.com/amaljithkuttamath/trust-bench)** - Interpretability toolkit that probes SAE features, activations, and circuits in Llama 3.1 8B. Three probes (feature survey, hallucination, cross-lingual), statistical analysis, publication-quality viz, and a CLI.
 
-### Research interests
-
-| Area | Focus |
-|------|-------|
-| **LLM Internals** | Transformer architecture, hybrid attention mechanisms, activation analysis |
-| **Trust & Safety** | Hallucination detection, failure mode analysis, safety evaluation |
-| **RAG Systems** | Retrieval-augmented generation for high-stakes domains (healthcare, clinical) |
-| **Inference** | KV cache, quantization, speculative decoding |
-
-### Projects
+### Interpretability research
 
 | Project | What it does |
 |---------|-------------|
-| [microGPT Playground](https://amaljithkuttamath.github.io/playground) | Train a transformer live in your browser. Visualizes attention, embeddings, MLP activations, and loss in real time. |
-| [RAG Depression Chatbot](https://github.com/amaljithkuttamath/rag_depression_chatbot) | RAG chatbot with crisis detection, hybrid retrieval, and GPT-4 |
-| [Job Resume Matcher](https://github.com/amaljithkuttamath/job-resume-matcher) | NLP-based resume-to-job matching using TF-IDF and cosine similarity |
+| [sae-explorer](https://github.com/amaljithkuttamath/sae-explorer) | Found a single SAE feature (#10543) that fires on "and" across six languages in Gemma 2 2B. Zero false positives. |
+| [superposition-viz](https://github.com/amaljithkuttamath/superposition-viz) | Reproduces Anthropic's Toy Models of Superposition. Found phase transition at 0.7 sparsity. |
+| [activation-atlas](https://github.com/amaljithkuttamath/activation-atlas) | Layer-by-layer UMAP projections showing how neural networks organize learned representations. |
+| [scaling-laws](https://github.com/amaljithkuttamath/scaling-laws) | Train transformers from 100K to 10M params, fit power laws, plot the curves. Do they hold at toy scale? |
+| [loss-landscape](https://github.com/amaljithkuttamath/loss-landscape) | 3D surface plots of loss landscapes around trained weights. Sharpness comparison across training configs. |
+
+### LLM evaluation
+
+| Project | What it does |
+|---------|-------------|
+| [calibration-probe](https://github.com/amaljithkuttamath/calibration-probe) | Measure how well LLMs know what they know. Reliability diagrams and ECE across prompting strategies. |
+| [attention-bench](https://github.com/amaljithkuttamath/attention-bench) | Benchmark MHA vs GQA vs MQA vs Sliding Window. Train small transformers, compare perplexity and throughput. |
+
+### Rust CLI tools
+
+| Project | What it does |
+|---------|-------------|
+| [crux](https://github.com/amaljithkuttamath/crux) | Terminal dashboard for AI coding tool token usage. |
+| [tokenizer-arena](https://github.com/amaljithkuttamath/tokenizer-arena) | Compare how different LLM tokenizers handle the same text. Color-coded token boundaries. |
+| [gguf-inspect](https://github.com/amaljithkuttamath/gguf-inspect) | Inspect GGUF model files from the terminal. Architecture, quantization, tensors, memory estimates. |
 
 ### Writing
 
-- [How Large Language Models Actually Work](https://amaljithkuttamath.github.io/work/understanding-llms) - from raw text to trained model, in 200 lines of Python
+Recent posts on [amaljithkuttamath.github.io/work](https://amaljithkuttamath.github.io/work):
 
-[Blog](https://amaljithkuttamath.github.io/work) | [Substack](https://substack.com/@amaljithk)
+- [A Single Neuron for 'And' in Six Languages](https://amaljithkuttamath.github.io/work/sae-explorer) - Cross-lingual SAE features in Gemma 2 2B
+- [Why Trust Bench](https://amaljithkuttamath.github.io/work/why-trust-bench) - The case for probing LLM internals
+- [How Large Language Models Actually Work](https://amaljithkuttamath.github.io/work/understanding-llms) - From raw text to trained model, in 200 lines of Python
 
 ### Tech
 
 <p>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white"></a>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"></a>
 <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFB200?logo=huggingface&logoColor=white"></a>
-<a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"></a>
-<a href="#"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-%23008CC1.svg?logo=neo4j&logoColor=white"></a>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white"></a>
-<a href="#"><img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
-<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+<a href="#"><img alt="TransformerLens" src="https://img.shields.io/badge/TransformerLens-4B0082?logoColor=white"></a>
+<a href="#"><img alt="SAELens" src="https://img.shields.io/badge/SAELens-2E8B57?logoColor=white"></a>
 </p>
 
 ### Connect
