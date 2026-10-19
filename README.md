@@ -1,7 +1,5 @@
 # Amaljith Kuttamath
 
-I'm an AI engineer. Lately that mostly means retrieval and tooling for coding agents, with interpretability experiments on the side.
-
 ### Now
 
 - **ferrag** (not public yet). A local-first RAG engine in Rust. The idea is a library you embed in your app, the way you'd use SQLite, instead of another server to run.
